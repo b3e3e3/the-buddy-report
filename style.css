@@ -1,0 +1,21 @@
+h1 {
+    color: seagreen;
+}
+body {
+    background-color: blanchedalmond;
+
+}
+#rectangle {
+    background-color: rebeccapurple;
+    width: 500px;
+    height: 1000000px;
+}
+#weenis {
+    background-color: hotpink;
+    width: 100000px;
+    height: 87px;
+}
+.shape {
+    outline: 4px chartreuse dashed;
+    margin: 13px 0;
+}
